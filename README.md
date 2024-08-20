@@ -1,16 +1,16 @@
-## Hi there 👋
+Public Key:
 
-<!--
-**07jh/07jh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+mDMEZsS6jRYJKwYBBAHaRw8BAQdAHAA7aDAimwLryGrkCUu64HzT4kYsqXDYSwGV
+sd4DV+u0MGpvbmFzIDxjbGljay5oZXJlLmZvci5hLnNhZmUuZG93bmxvYWRAZ21h
+aWwuY29tPoiZBBMWCgBBFiEE2PMI32LGipBnf7DmI++FJZgXm5wFAmbEuo0CGwMF
+CQWjSRMFCwkIBwICIgIGFQoJCAsCBBYCAwECHgcCF4AACgkQI++FJZgXm5wDwgD+
+KNfC6E/zeUvs9YsJoyzsGBMfWRKjz4D/BzrTRH+H7ocBALycH/yvsj/8+Ijvp+ER
+Z5VuKTbkm3SXYG8QAJF3u30KuDgEZsS6jRIKKwYBBAGXVQEFAQEHQHTaUlRXaiIn
+V/3Ilk9ynMXg3rQnuDY+HhTi0DERQRtjAwEIB4h+BBgWCgAmFiEE2PMI32LGipBn
+f7DmI++FJZgXm5wFAmbEuo0CGwwFCQWjSRMACgkQI++FJZgXm5xVawD/Tvh9j+fO
+Yoye3c0cKoXMApoZB7M4voCcQg1C7e2GRyQA/3N6zz2+aB4gwoPHi2XsEgOD2Ow0
+Htc0LnlSlBVWHMEM
+=pAop
+-----END PGP PUBLIC KEY BLOCK-----
